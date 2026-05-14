@@ -79,7 +79,7 @@ This project explores transactional retail data to understand **how customers sh
 
 ### Step 5 — Power BI Dashboard
 - Built an interactive dashboard with slicers, KPI cards, bar charts, and a donut chart
-- See [Dashboard](#-dashboard) section below
+
 
 ### Step 6 — Report & Presentation
 - Created a professional project report using **Gamma**
